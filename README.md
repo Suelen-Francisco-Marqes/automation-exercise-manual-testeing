@@ -28,4 +28,4 @@ O objetivo principal deste projeto é praticar e demonstrar na prática o planej
 
 ## 👩‍💻 Autora
 *Suelen*  
-* [Conecte-se comigo no LinkedIn]([COLOQUE_O_LINK_DO_SEU_LINKEDIN_AQUI](https://br.linkedin.com/in/suelen-francisco-marques-4231b5172))
+* [Conecte-se comigo no LinkedIn](https://br.linkedin.com/in/suelen-francisco-marques-4231b5172)
